@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ECHO er sl†et til.
 
 
 GAYYYYYY
+=======
+Det her er en test
+>>>>>>> riissum/master <Ñ this nigga is gay
